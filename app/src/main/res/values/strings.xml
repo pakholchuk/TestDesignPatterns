@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestDesignPatterns</string>
+    <string name="put_text_to_source">Put text to Source</string>
+    <string name="put">PUT</string>
+    <string name="observer">OBSERVER</string>
+</resources>

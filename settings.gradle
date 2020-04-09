@@ -1,0 +1,2 @@
+rootProject.name='TestDesignPatterns'
+include ':app'
