@@ -16,4 +16,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/main_decorator"
         android:text="@string/decorator"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/main_factory"
+        android:text="@string/factory"/>
+
 </GridLayout>

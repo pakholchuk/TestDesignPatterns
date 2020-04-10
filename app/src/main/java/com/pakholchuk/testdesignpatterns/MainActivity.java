@@ -10,6 +10,7 @@ import android.view.View;
 import com.pakholchuk.testdesignpatterns.databinding.ActivityMainBinding;
 import com.pakholchuk.testdesignpatterns.databinding.ActivityObserverBinding;
 import com.pakholchuk.testdesignpatterns.decorator.DecoratorActivity;
+import com.pakholchuk.testdesignpatterns.factory.FactoryActivity;
 import com.pakholchuk.testdesignpatterns.observer.ObserverActivity;
 
 import java.util.zip.Inflater;
@@ -33,6 +34,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(getApplicationContext(), DecoratorActivity.class);
+                startActivity(intent);
+            }
+        });
+        binding.mainFactory.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), FactoryActivity.class);
                 startActivity(intent);
             }
         });

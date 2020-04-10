@@ -14,4 +14,13 @@
     <string name="bake">BAKE</string>
     <string name="clear">CLEAR</string>
     <string name="decorator">DECORATOR</string>
+    <string name="innova">INNOVA</string>
+    <string name="fortuner">FORTUNER</string>
+    <string name="cruiser">CRUISER</string>
+    <string name="mustang">MUSTANG</string>
+    <string name="focus">FOCUS</string>
+    <string name="f50">F50</string>
+    <string name="ford">FORD</string>
+    <string name="toyota">TOYOTA</string>
+    <string name="factory">FACTORY</string>
 </resources>
