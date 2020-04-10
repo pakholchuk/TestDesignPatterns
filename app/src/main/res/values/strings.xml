@@ -3,4 +3,15 @@
     <string name="put_text_to_source">Put text to Source</string>
     <string name="put">PUT</string>
     <string name="observer">OBSERVER</string>
+    <string name="marinara">MARINARA</string>
+    <string name="cheese">CHEESE</string>
+    <string name="pepperoni">PEPPERONI</string>
+    <string name="olives">OLIVES</string>
+    <string name="pear">PEAR</string>
+    <string name="ext_cheese">EXTRA CHEESE</string>
+    <string name="please_choose_extras">Please choose extras:</string>
+    <string name="choose_pizza">Please choose pizza:</string>
+    <string name="bake">BAKE</string>
+    <string name="clear">CLEAR</string>
+    <string name="decorator">DECORATOR</string>
 </resources>

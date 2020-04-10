@@ -11,4 +11,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/main_observer"
         android:text="@string/observer"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/main_decorator"
+        android:text="@string/decorator"/>
 </GridLayout>
